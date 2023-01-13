@@ -18,6 +18,7 @@ h1 {
 }
 .logo-container {
   position: relative;
+  margin-left: 80px;
 }
 .logo-container::before {
   content: "";
@@ -516,7 +517,8 @@ margin-top: 30px;
 }
 @media screen and (min-width: 1200px) {
     .page-header{
-        justify-content:space-around;
+      width: 1600px;
+        justify-content:space-between;
         align-items: baseline;
     }
     .navigation-list{
