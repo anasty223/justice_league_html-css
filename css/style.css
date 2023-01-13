@@ -150,9 +150,7 @@ align-items: center;
   text-align: start;
 margin-left: 80px;
 }
-.hero_text {
-  /* width:207px; */
-}
+
 /* .container_hero_img{
     mask-image: linear-gradient(to right, rgba(0, 0, 0, 1.0) 100%, transparent 100%);
 } */
@@ -761,4 +759,18 @@ line-height: 20px;
 .hero-card{
   padding: 0;
 width: 532px;}
+.hero_text {
+  width:507px;
+}
+.hero-header{
+  font-family: 'Marcellus';
+font-style: normal;
+font-weight: 400;
+font-size: 80px;
+line-height: 70px;
+/* or 88% */
+
+
+color: #FFFFFF;
+}
 }
